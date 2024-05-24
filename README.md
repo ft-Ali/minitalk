@@ -4,9 +4,13 @@ commands to use my minitalk
 
 rename libft directory to .libft
 
-make, make bonus
+make 
+make bonus
 
+Launch server : 
 
-Launch server : ./server or ./server_bonus
+./server or ./server_bonus
 
-Launch client ./client [PID GIVEN FROM SERVER] [YOUR MSG] or ./client_bonus [PID GIVEN FROM SERVER] [YOUR MSG]
+Launch client : 
+./client [PID GIVEN FROM SERVER] [YOUR MSG] 
+./client_bonus [PID GIVEN FROM SERVER] [YOUR MSG]
