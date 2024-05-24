@@ -12,5 +12,7 @@ Launch server :
 ./server or ./server_bonus
 
 Launch client : 
-./client [PID GIVEN FROM SERVER] [YOUR MSG] 
+
+./client [PID GIVEN FROM SERVER] [YOUR MSG]
+
 ./client_bonus [PID GIVEN FROM SERVER] [YOUR MSG]
