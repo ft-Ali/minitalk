@@ -41,7 +41,7 @@ void	ft_handler(int signal, siginfo_t *info, void *context)
 		if (current_char == END_TRANSMISSION)
 		{
 			ft_printf("\n");
-			kill(info->si_pid, SIGUSR2);
+			kill(info->si_pid, SIGUSR1);
 		}
 		else
 			ft_putchar(current_char);
