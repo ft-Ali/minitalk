@@ -5,6 +5,7 @@ commands to use my minitalk
 rename libft directory to .libft
 
 make 
+
 make bonus
 
 Launch server : 
